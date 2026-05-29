@@ -259,7 +259,12 @@
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Договоры</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Document>ОказаниеУслуг</Document>
+			<Document>ПриходнаяНакладная</Document>
 			<Enum>ВидыНоменклатуры</Enum>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
+			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

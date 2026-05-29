@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Договоры" id="a89e18a9-92cf-4fc2-9da3-7a9538049514" configVersion="59ab833095a5a241bd5e0942f535179c00000000">
+			<Metadata name="Catalog.Договоры.Attribute.ДатаЗаключения" id="c0c927d6-c449-4b09-941b-58b7fa80fff8"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты" id="8abcf4b8-f669-4d08-be42-133fe9fbcdfc" configVersion="29cda3cc1590d0489880ab8a3e0fbcc700000000"/>
+		<Metadata name="Catalog.Номенклатура" id="3624b1c8-d657-4af3-956d-76a4231dee7d" configVersion="47ad3946ce0d49428d60b308ad670b5900000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="b497d744-4277-49c6-834a-924442075d48"/>
+		</Metadata>
+		<Metadata name="Catalog.Склады" id="f3f3587e-5000-4ac6-a325-a9f6fec9052f" configVersion="f9ea619ab6daf64b914ad97c8ba8aa6700000000"/>
+		<Metadata name="Catalog.Склады.Predefined" id="f3f3587e-5000-4ac6-a325-a9f6fec9052f.1c" configVersion="1e1b289653ffa64d8713b7ca880135da00000000"/>
+		<Metadata name="Catalog.Сотрудники" id="30646e9f-5ace-45a5-9ae4-b9fd3d5cddd1" configVersion="636418917a25c94db59daef32d9431d000000000"/>
+		<Metadata name="Configuration.ОришкоПА" id="09cacff9-ebc5-4543-a804-e27210e70756" configVersion="499088025c31ea499a44dc046db308dc00000000"/>
+		<Metadata name="Configuration.ОришкоПА.ClientApplicationInterface" id="4b675d41-a0f8-4e54-86eb-f627571416a7.b" configVersion="532701c69a4cf3458da8645738ca3dee00000000"/>
+		<Metadata name="Configuration.ОришкоПА.CommandInterface" id="4b675d41-a0f8-4e54-86eb-f627571416a7.a" configVersion="e36f9c02531e634b9b63f06e3eee22e700000000"/>
+		<Metadata name="Constant.Организация" id="c84236ad-aafb-4795-8b28-c3b71f28bb40" configVersion="d5e6810a7271f64c9ac63a436f9d18df00000000"/>
+		<Metadata name="Enum.ВидыНоменклатуры" id="95c92286-931b-4978-8a72-a62031789fd5" configVersion="74eedc799fdf9b49b08524da411d291a00000000">
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="6bc4388d-f402-4053-b2c0-306a6114c820"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Материал" id="7826f7d4-d11a-4f69-b716-548ebdbf67d8"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="ee4ac48f-ffcb-4cc8-a8e2-8aa785c3d619" configVersion="bacfd31f7ba3b8408b536576a084e1de00000000"/>
+		<Metadata name="Subsystem.Администрирование" id="f2207b38-6402-4826-a45f-c6bf7e4e1954" configVersion="2541fe555253744e9777fd07536051ae00000000"/>
+		<Metadata name="Subsystem.Администрирование.Subsystem.Документы" id="f45230c1-8829-450f-88b9-5c41960ed888" configVersion="bc6425c42ac1de458a8e9c2fbe5d787a00000000"/>
+		<Metadata name="Subsystem.Администрирование.Subsystem.НСИ" id="084d24a1-d021-4604-83be-e56ba4d248e7" configVersion="81bbb2bacfaf2c41bb5755f21810fcc100000000"/>
+		<Metadata name="Subsystem.Администрирование.Subsystem.Регистры" id="267f5c78-abe6-4e52-a07b-4dd5d46e252f" configVersion="a1c2ed71ce0b54489cd13b44e4efd7eb00000000"/>
+		<Metadata name="Subsystem.ОказаниеУслуг" id="8beb2b97-7d8c-4abe-9c25-f27378f445d1" configVersion="a13cf64130b73149b189f888fe8ea77200000000"/>
+		<Metadata name="Subsystem.УчетМатериалов" id="d0d79fa7-9c18-47f9-a84b-fb5243592ce7" configVersion="e6c218a3f2b6294ebf3d3bfe33186d1000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

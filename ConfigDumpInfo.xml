@@ -24,9 +24,10 @@
 		<Metadata name="Catalog.Склады" id="f3f3587e-5000-4ac6-a325-a9f6fec9052f" configVersion="f9ea619ab6daf64b914ad97c8ba8aa6700000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="f3f3587e-5000-4ac6-a325-a9f6fec9052f.1c" configVersion="1e1b289653ffa64d8713b7ca880135da00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="30646e9f-5ace-45a5-9ae4-b9fd3d5cddd1" configVersion="636418917a25c94db59daef32d9431d000000000"/>
-		<Metadata name="Configuration.ОришкоПА" id="09cacff9-ebc5-4543-a804-e27210e70756" configVersion="f75a951973db274d9992dddc2b2bd13800000000"/>
+		<Metadata name="Configuration.ОришкоПА" id="09cacff9-ebc5-4543-a804-e27210e70756" configVersion="bd4beda8c11423479681c52b8da8dcbe00000000"/>
 		<Metadata name="Configuration.ОришкоПА.ClientApplicationInterface" id="4b675d41-a0f8-4e54-86eb-f627571416a7.b" configVersion="532701c69a4cf3458da8645738ca3dee00000000"/>
 		<Metadata name="Configuration.ОришкоПА.CommandInterface" id="4b675d41-a0f8-4e54-86eb-f627571416a7.a" configVersion="e36f9c02531e634b9b63f06e3eee22e700000000"/>
+		<Metadata name="Configuration.ОришкоПА.ManagedApplicationModule" id="4b675d41-a0f8-4e54-86eb-f627571416a7.6" configVersion="c4b5e1e4841b0b45a21e7a4ddff4739800000000"/>
 		<Metadata name="Constant.Организация" id="c84236ad-aafb-4795-8b28-c3b71f28bb40" configVersion="d5e6810a7271f64c9ac63a436f9d18df00000000"/>
 		<Metadata name="Document.ОказаниеУслуг" id="261335b5-0d0d-4864-9726-ac687c2a3373" configVersion="ef0f835f2d8aa44cbd1692cf8e17edf500000000">
 			<Metadata name="Document.ОказаниеУслуг.Attribute.Клиент" id="081e5f88-0e72-49ab-98ca-2a2393e11338"/>

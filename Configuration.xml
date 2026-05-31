@@ -253,6 +253,8 @@
 			<Subsystem>УчетМатериалов</Subsystem>
 			<Subsystem>ОказаниеУслуг</Subsystem>
 			<Subsystem>Администрирование</Subsystem>
+			<CommonModule>РасчетыКлиент</CommonModule>
+			<CommonModule>РасчетыСервер</CommonModule>
 			<Constant>Организация</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>

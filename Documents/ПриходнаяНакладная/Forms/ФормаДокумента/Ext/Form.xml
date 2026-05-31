@@ -81,6 +81,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="СписокМатериаловМатериалКонтекстноеМеню" id="27"/>
 					<ExtendedTooltip name="СписокМатериаловМатериалРасширеннаяПодсказка" id="28"/>
+					<Events>
+						<Event name="OnChange">СписокМатериаловМатериалПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="СписокМатериаловКоличество" id="29">
 					<DataPath>Объект.СписокМатериалов.Количество</DataPath>
@@ -89,6 +92,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="СписокМатериаловКоличествоКонтекстноеМеню" id="30"/>
 					<ExtendedTooltip name="СписокМатериаловКоличествоРасширеннаяПодсказка" id="31"/>
+					<Events>
+						<Event name="OnChange">СписокМатериаловКоличествоПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="СписокМатериаловЦена" id="32">
 					<DataPath>Объект.СписокМатериалов.Цена</DataPath>
@@ -96,6 +102,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="СписокМатериаловЦенаКонтекстноеМеню" id="33"/>
 					<ExtendedTooltip name="СписокМатериаловЦенаРасширеннаяПодсказка" id="34"/>
+					<Events>
+						<Event name="OnChange">СписокМатериаловЦенаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="СписокМатериаловСумма" id="35">
 					<DataPath>Объект.СписокМатериалов.Сумма</DataPath>
@@ -104,6 +113,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="СписокМатериаловСуммаКонтекстноеМеню" id="36"/>
 					<ExtendedTooltip name="СписокМатериаловСуммаРасширеннаяПодсказка" id="37"/>
+					<Events>
+						<Event name="OnChange">СписокМатериаловСуммаПриИзменении</Event>
+					</Events>
 				</InputField>
 			</ChildItems>
 		</Table>

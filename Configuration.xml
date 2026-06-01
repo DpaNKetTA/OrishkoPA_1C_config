@@ -267,6 +267,9 @@
 			<Report>ПрайсЛист</Report>
 			<Report>ЦеныЗакупки</Report>
 			<Report>МатериалыНаСкладах</Report>
+			<Report>ПродажиПоКлиентам</Report>
+			<Report>ПродажиПоМастерам</Report>
+			<Report>РейтингУслуг</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

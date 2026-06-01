@@ -264,6 +264,9 @@
 			<Document>ОказаниеУслуг</Document>
 			<Document>ПриходнаяНакладная</Document>
 			<Enum>ВидыНоменклатуры</Enum>
+			<Report>ПрайсЛист</Report>
+			<Report>ЦеныЗакупки</Report>
+			<Report>МатериалыНаСкладах</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

@@ -256,6 +256,8 @@
 			<CommonModule>РасчетыКлиент</CommonModule>
 			<CommonModule>РасчетыСервер</CommonModule>
 			<Constant>Организация</Constant>
+			<CommonForm>РабочееМестоОказанияУслуг</CommonForm>
+			<CommonForm>ПрайсЛист</CommonForm>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>Клиенты</Catalog>

@@ -253,6 +253,9 @@
 			<Subsystem>УчетМатериалов</Subsystem>
 			<Subsystem>ОказаниеУслуг</Subsystem>
 			<Subsystem>Администрирование</Subsystem>
+			<Role>ПолныеПрава</Role>
+			<Role>ОказаниеУслуг</Role>
+			<Role>УчетМатериалов</Role>
 			<CommonModule>РасчетыКлиент</CommonModule>
 			<CommonModule>РасчетыСервер</CommonModule>
 			<Constant>Организация</Constant>
